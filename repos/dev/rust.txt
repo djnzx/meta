@@ -1,0 +1,11 @@
+git@github.com:djnzx/rust-template.git
+git@github.com:djnzx/rust-practice.git
+git@github.com:djnzx/rust-notebook.git
+
+git@github.com:djnzx/rust-course.git
+git@github.com:djnzx/learning-rust.git
+git@github.com:djnzx/rust-tasks-solved.git
+
+git@github.com:djnzx/rust-minigrep.git
+
+https://github.com/djnzx/ch57x-keyboard-tool

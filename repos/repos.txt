@@ -1,0 +1,2 @@
+git@github.com:djnzx/automation.git
+git@github.com:djnzx/containers.git

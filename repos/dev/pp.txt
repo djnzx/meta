@@ -1,0 +1,14 @@
+git@github.com:djnzx/algorithms.git
+git@github.com:djnzx/scala-99.git
+git@github.com:djnzx/hrfp.git
+git@github.com:bjornregnell/the-future-software-engineer.git
+git@github.com:djnzx/private-notebook.git
+git@github.com:djnzx/scala-structured-logging-ideas.git
+git@github.com:djnzx/scala-course.git
+git@github.com:djnzx/presence.git
+git@github.com/djnzx/java-heroku-from-zero-to-hero.git
+git@github.com:djnzx/learning-css.git
+git@github.com:djnzx/exam-122.git
+git@github.com:djnzx/scala-template.git
+git@github.com:djnzx/scala-avro-kafka-flows.git
+git@github.com:djnzx/scala-fullstack.git

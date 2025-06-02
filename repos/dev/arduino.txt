@@ -1,0 +1,3 @@
+git@github.com:djnzx/ext-barrel-2023.git
+git@github.com:djnzx/int-barrel-2023.git
+git@github.com:djnzx/i2c-lcd.git

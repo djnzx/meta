@@ -1,0 +1,6 @@
+https://github.com/pzuehlke/Haskell-Exercism
+https://github.com/djnzx/haskell-graham-hutton
+https://github.com/djnzx/learning-haskell-0
+https://github.com/djnzx/learning-haskell-1
+https://github.com/djnzx/learning-haskell-2
+https://github.com/djnzx/learning-haskell-fp

@@ -1,0 +1,8 @@
+https://gitlab.com/dan-it/groups/fs-4-online
+https://gitlab.com/dan-it/groups/fs6-online
+https://gitlab.com/dan-it/groups/fs8-online
+https://gitlab.com/dan-it/groups/fs_10
+https://gitlab.com/dan-it/groups/fs_11
+
+git@gitlab.com:dan-it/groups/java-homework-step.git
+git@github.com:djnzx/java-hw-template.git
