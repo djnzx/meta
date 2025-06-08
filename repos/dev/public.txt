@@ -19,3 +19,26 @@ git@github.com:djnzx/linear-algebra-book.git
 
 
 git@github.com:googleworkspace/java-samples.git
+https://github.com/hwayne/learntla-v2
+https://github.com/hwayne/tlacli
+https://github.com/tlaplus/vscode-tlaplus/
+https://habr.com/ru/companies/yandex/articles/471012/
+https://www.hillelwayne.com/post/
+https://alloytools.org
+https://www.youtube.com/watch?v=FvNRlE4E9QQ
+https://jwbaugh.github.io/papers/baugh-abz-2016.pdf
+https://lamport.azurewebsites.net/tla/book.html
+https://lamport.azurewebsites.net/tla/formal-methods-amazon.pdf
+https://www.youtube.com/watch?v=FvNRlE4E9QQ
+https://www.minizinc.org
+https://play.minizinc.dev
+SAT solvers: sat4j
+https://smt.st/main.html
+https://microsoft.github.io/z3guide/
+https://theory.stanford.edu/~nikolaj/programmingz3.html
+https://cseweb.ucsd.edu/~npolikarpova/publications/popl20.pdf
+https://developers.google.com/optimization
+https://picat-lang.org
+https://picat-lang.org/p99/index.html
+https://docs.oracle.com/javase/specs/jvms/se10/jvms10.pdf
+modal logic
